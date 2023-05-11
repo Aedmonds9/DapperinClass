@@ -1,0 +1,5 @@
+C:\Users\brode\repos\dapperpactice\dapperpactice\obj\Debug\netcoreapp3.1\dapperpactice.csproj.AssemblyReference.cache
+C:\Users\brode\repos\dapperpactice\dapperpactice\obj\Debug\netcoreapp3.1\dapperpactice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\repos\dapperpactice\dapperpactice\obj\Debug\netcoreapp3.1\dapperpactice.AssemblyInfoInputs.cache
+C:\Users\brode\repos\dapperpactice\dapperpactice\obj\Debug\netcoreapp3.1\dapperpactice.AssemblyInfo.cs
+C:\Users\brode\repos\dapperpactice\dapperpactice\obj\Debug\netcoreapp3.1\dapperpactice.csproj.CoreCompileInputs.cache
